@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: a5c22e168f5e4e147b878f251b53cf8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3325292797140081328
+    second: Larry_No_Background (1)_0
+  - first:
+      213: 6950031356537030090
+    second: Larry_No_Background (1)_1
+  - first:
+      213: 5814997193547060215
+    second: Larry_No_Background (1)_2
+  - first:
+      213: -8501383924711943512
+    second: Larry_No_Background (1)_3
+  - first:
+      213: -1894429235085794468
+    second: Larry_No_Background (1)_4
+  - first:
+      213: 8748316193710436283
+    second: Larry_No_Background (1)_5
+  - first:
+      213: 8080746213881407640
+    second: Larry_No_Background (1)_6
+  - first:
+      213: 2954826076965551003
+    second: Larry_No_Background (1)_7
+  - first:
+      213: -7370530735726078223
+    second: Larry_No_Background (1)_8
+  - first:
+      213: -7451338227292535799
+    second: Larry_No_Background (1)_9
+  - first:
+      213: 420576196866665585
+    second: Larry_No_Background (1)_10
+  - first:
+      213: 3435971439820510318
+    second: Larry_No_Background (1)_11
+  - first:
+      213: -8305860247301784300
+    second: Larry_No_Background (1)_12
+  - first:
+      213: 1930695069720505909
+    second: Larry_No_Background (1)_13
+  - first:
+      213: 2112519241414706825
+    second: Larry_No_Background (1)_14
+  - first:
+      213: 3044740283948269272
+    second: Larry_No_Background (1)_15
+  - first:
+      213: -3359852698440612909
+    second: Larry_No_Background (1)_16
+  - first:
+      213: 5749555929948785448
+    second: Larry_No_Background (1)_17
+  - first:
+      213: -8215507254095612253
+    second: Larry_No_Background (1)_18
+  - first:
+      213: -4678709839429824095
+    second: Larry_No_Background (1)_19
+  - first:
+      213: -4056950011730594041
+    second: Larry_No_Background (1)_20
+  - first:
+      213: -2326517013196407169
+    second: Larry_No_Background (1)_21
+  - first:
+      213: 2284420703524259162
+    second: Larry_No_Background (1)_22
+  - first:
+      213: -2604727962723878665
+    second: Larry_No_Background (1)_23
+  - first:
+      213: -1880080946642385063
+    second: Larry_No_Background (1)_24
+  - first:
+      213: -9035841179824236485
+    second: Larry_No_Background (1)_25
+  - first:
+      213: -3145206640022337248
+    second: Larry_No_Background (1)_26
+  - first:
+      213: -364103011990297220
+    second: Larry_No_Background (1)_27
+  - first:
+      213: -2282366957692208478
+    second: Larry_No_Background (1)_28
+  - first:
+      213: 1884297925587367892
+    second: Larry_No_Background (1)_29
+  - first:
+      213: 8166861370473017069
+    second: Larry_No_Background (1)_30
+  - first:
+      213: -6519468370918661881
+    second: Larry_No_Background (1)_31
+  - first:
+      213: -7152759726581267065
+    second: Larry_No_Background (1)_32
+  - first:
+      213: 5453349724800224726
+    second: Larry_No_Background (1)_33
+  - first:
+      213: 1343398367957876121
+    second: Larry_No_Background (1)_34
+  - first:
+      213: 4112769860953261487
+    second: Larry_No_Background (1)_35
+  - first:
+      213: -8431388365301725652
+    second: Larry_No_Background (1)_36
+  - first:
+      213: 829995362013425867
+    second: Larry_No_Background (1)_37
+  - first:
+      213: 8449587658987771519
+    second: Larry_No_Background (1)_38
+  - first:
+      213: -8605677006177943732
+    second: Larry_No_Background (1)_39
+  - first:
+      213: -1349642304693859916
+    second: Larry_No_Background (1)_40
+  - first:
+      213: 1276869842861523659
+    second: Larry_No_Background (1)_41
+  - first:
+      213: 660824202223210908
+    second: Larry_No_Background (1)_42
+  - first:
+      213: -6918474688296500517
+    second: Larry_No_Background (1)_43
+  - first:
+      213: 2270080537654945284
+    second: Larry_No_Background (1)_44
+  - first:
+      213: 2751733494256270933
+    second: Larry_No_Background (1)_45
+  - first:
+      213: 4459754490979934754
+    second: Larry_No_Background (1)_46
+  - first:
+      213: 3272064500905963500
+    second: Larry_No_Background (1)_47
+  - first:
+      213: -5163672739803602062
+    second: Larry_No_Background (1)_48
+  - first:
+      213: -5926850154740596446
+    second: Larry_No_Background (1)_49
+  - first:
+      213: -3631740070802440769
+    second: Larry_No_Background (1)_50
+  - first:
+      213: 3784497703184446010
+    second: Larry_No_Background (1)_51
+  - first:
+      213: -9189127620866057787
+    second: Larry_No_Background (1)_52
+  - first:
+      213: -3482488468358120413
+    second: Larry_No_Background (1)_53
+  - first:
+      213: 1914153987213067166
+    second: Larry_No_Background (1)_54
+  - first:
+      213: 2821697533011964327
+    second: Larry_No_Background (1)_55
+  - first:
+      213: 5549279441522179972
+    second: Larry_No_Background (1)_56
+  - first:
+      213: 8047031343827459947
+    second: Larry_No_Background (1)_57
+  - first:
+      213: -1893886590311594844
+    second: Larry_No_Background (1)_58
+  - first:
+      213: -6199830608052864390
+    second: Larry_No_Background (1)_59
+  - first:
+      213: -2525318264794368476
+    second: Larry_No_Background (1)_60
+  - first:
+      213: -8898069195926888870
+    second: Larry_No_Background (1)_61
+  - first:
+      213: -2278459755900229853
+    second: Larry_No_Background (1)_62
+  - first:
+      213: 5570467902806085109
+    second: Larry_No_Background (1)_63
+  - first:
+      213: 3605231801209307409
+    second: Larry_No_Background (1)_64
+  - first:
+      213: 1974484592146424349
+    second: Larry_No_Background (1)_65
+  - first:
+      213: -1594835818289973630
+    second: Larry_No_Background (1)_66
+  - first:
+      213: -3841357029715725903
+    second: Larry_No_Background (1)_67
+  - first:
+      213: -2666053083080851921
+    second: Larry_No_Background (1)_68
+  - first:
+      213: 3864453688727881621
+    second: Larry_No_Background (1)_69
+  - first:
+      213: 5005637057279959859
+    second: Larry_No_Background (1)_70
+  - first:
+      213: 5197835081928936268
+    second: Larry_No_Background (1)_71
+  - first:
+      213: -1661905747785524736
+    second: Larry_No_Background (1)_72
+  - first:
+      213: -187449260349494616
+    second: Larry_No_Background (1)_73
+  - first:
+      213: 4995452057988140625
+    second: Larry_No_Background (1)_74
+  - first:
+      213: -8935449650096911406
+    second: Larry_No_Background (1)_75
+  - first:
+      213: -1467277279681085601
+    second: Larry_No_Background (1)_76
+  - first:
+      213: 2071561000827507372
+    second: Larry_No_Background (1)_77
+  - first:
+      213: 1990492393087816512
+    second: Larry_No_Background (1)_78
+  - first:
+      213: -5744155278861628850
+    second: Larry_No_Background (1)_79
+  - first:
+      213: -8256352331418169219
+    second: Larry_No_Background (1)_80
+  - first:
+      213: -5828542224603021597
+    second: Larry_No_Background (1)_81
+  - first:
+      213: 3370484038938898784
+    second: Larry_No_Background (1)_82
+  - first:
+      213: 5311512557117495283
+    second: Larry_No_Background (1)_83
+  - first:
+      213: 1842580683152795207
+    second: Larry_No_Background (1)_84
+  - first:
+      213: -1860600960026091564
+    second: Larry_No_Background (1)_85
+  - first:
+      213: -8639557838503538223
+    second: Larry_No_Background (1)_86
+  - first:
+      213: 2402123488802133204
+    second: Larry_No_Background (1)_87
+  - first:
+      213: -145984673531054175
+    second: Larry_No_Background (1)_88
+  - first:
+      213: -3980900877943525107
+    second: Larry_No_Background (1)_89
+  - first:
+      213: 8907252966104398931
+    second: Larry_No_Background (1)_90
+  - first:
+      213: -939399624213228750
+    second: Larry_No_Background (1)_91
+  - first:
+      213: -1070563149880655426
+    second: Larry_No_Background (1)_92
+  - first:
+      213: -8079465027731540985
+    second: Larry_No_Background (1)_93
+  - first:
+      213: -6307998365924597756
+    second: Larry_No_Background (1)_94
+  - first:
+      213: -74982218903249740
+    second: Larry_No_Background (1)_95
+  - first:
+      213: 4390997721388453978
+    second: Larry_No_Background (1)_96
+  - first:
+      213: 7124261692501658809
+    second: Larry_No_Background (1)_97
+  - first:
+      213: 9137450007187231514
+    second: Larry_No_Background (1)_98
+  - first:
+      213: -3757185714711661019
+    second: Larry_No_Background (1)_99
+  - first:
+      213: 7524461359534936651
+    second: Larry_No_Background (1)_100
+  - first:
+      213: 6824897558754375201
+    second: Larry_No_Background (1)_101
+  - first:
+      213: -7389867098675534555
+    second: Larry_No_Background (1)_102
+  - first:
+      213: -4141874934680590951
+    second: Larry_No_Background (1)_103
+  - first:
+      213: 4933907230956963661
+    second: Larry_No_Background (1)_104
+  - first:
+      213: 7107638673874047645
+    second: Larry_No_Background (1)_105
+  - first:
+      213: -1824108251826266741
+    second: Larry_No_Background (1)_106
+  - first:
+      213: 7804839970218169151
+    second: Larry_No_Background (1)_107
+  - first:
+      213: 8499081492935065942
+    second: Larry_No_Background (1)_108
+  - first:
+      213: -8351011730816285058
+    second: Larry_No_Background (1)_109
+  - first:
+      213: 5988108011308212396
+    second: Larry_No_Background (1)_110
+  - first:
+      213: 5329612082136315901
+    second: Larry_No_Background (1)_111
+  - first:
+      213: -1199948251825240882
+    second: Larry_No_Background (1)_112
+  - first:
+      213: 6804979124687566879
+    second: Larry_No_Background (1)_113
+  - first:
+      213: -2612891502535921918
+    second: Larry_No_Background (1)_114
+  - first:
+      213: -8071492652468492719
+    second: Larry_No_Background (1)_115
+  - first:
+      213: -7731750016632326913
+    second: Larry_No_Background (1)_116
+  - first:
+      213: 9216436384316979931
+    second: Larry_No_Background (1)_117
+  - first:
+      213: 2683493184865021860
+    second: Larry_No_Background (1)_118
+  - first:
+      213: -612672352616976440
+    second: Larry_No_Background (1)_119
+  - first:
+      213: -7629004149928058230
+    second: Larry_No_Background (1)_120
+  - first:
+      213: 8383578241304065768
+    second: Larry_No_Background (1)_121
+  - first:
+      213: -3181556124516935647
+    second: Larry_No_Background (1)_122
+  - first:
+      213: 5148143519813460600
+    second: Larry_No_Background (1)_123
+  - first:
+      213: -562032498395764342
+    second: Larry_No_Background (1)_124
+  - first:
+      213: -750038037646306848
+    second: Larry_No_Background (1)_125
+  - first:
+      213: 4764779332079837250
+    second: Larry_No_Background (1)_126
+  - first:
+      213: -709531714154272608
+    second: Larry_No_Background (1)_127
+  - first:
+      213: -4454851058312323918
+    second: Larry_No_Background (1)_128
+  - first:
+      213: 5937475671513787519
+    second: Larry_No_Background (1)_129
+  - first:
+      213: 8150686924249254042
+    second: Larry_No_Background (1)_130
+  - first:
+      213: 5391162053212760432
+    second: Larry_No_Background (1)_131
+  - first:
+      213: -2119418180451769831
+    second: Larry_No_Background (1)_132
+  - first:
+      213: 2996058311493286069
+    second: Larry_No_Background (1)_133
+  - first:
+      213: -8535505178669556658
+    second: Larry_No_Background (1)_134
+  - first:
+      213: -4424863951360868013
+    second: Larry_No_Background (1)_135
+  - first:
+      213: 4221932373917522802
+    second: Larry_No_Background (1)_136
+  - first:
+      213: 890700512652913909
+    second: Larry_No_Background (1)_137
+  - first:
+      213: -2928131897943057239
+    second: Larry_No_Background (1)_138
+  - first:
+      213: 2751884915459173059
+    second: Larry_No_Background (1)_139
+  - first:
+      213: 1309650909893369023
+    second: Larry_No_Background (1)_140
+  - first:
+      213: 7506469572261983002
+    second: Larry_No_Background (1)_141
+  - first:
+      213: 2073537318226455230
+    second: Larry_No_Background (1)_142
+  - first:
+      213: 4131197755228259032
+    second: Larry_No_Background (1)_143
+  - first:
+      213: 736285755823756548
+    second: Larry_No_Background (1)_144
+  - first:
+      213: -1341416457304619917
+    second: Larry_No_Background (1)_145
+  - first:
+      213: 1175467403819600981
+    second: Larry_No_Background (1)_146
+  - first:
+      213: 3248923163060056595
+    second: Larry_No_Background (1)_147
+  - first:
+      213: -109927011042061496
+    second: Larry_No_Background (1)_148
+  - first:
+      213: -1697118730424463044
+    second: Larry_No_Background (1)_149
+  - first:
+      213: -1016014161030733716
+    second: Larry_No_Background (1)_150
+  - first:
+      213: 4315235490755936306
+    second: Larry_No_Background (1)_151
+  - first:
+      213: 166207729133960063
+    second: Larry_No_Background (1)_152
+  - first:
+      213: 7917319854293803363
+    second: Larry_No_Background (1)_153
+  - first:
+      213: -7389028299464703513
+    second: Larry_No_Background (1)_154
+  - first:
+      213: -7034853325698403986
+    second: Larry_No_Background (1)_155
+  - first:
+      213: -1205679233355330733
+    second: Larry_No_Background (1)_156
+  - first:
+      213: 2980972169806424700
+    second: Larry_No_Background (1)_157
+  - first:
+      213: 7173075272789839742
+    second: Larry_No_Background (1)_158
+  - first:
+      213: -7232127245446167011
+    second: Larry_No_Background (1)_159
+  - first:
+      213: -5315218424923506760
+    second: Larry_No_Background (1)_160
+  - first:
+      213: 9000975098207610509
+    second: Larry_No_Background (1)_161
+  - first:
+      213: -6858532303305981370
+    second: Larry_No_Background (1)_162
+  - first:
+      213: 8521957336189980910
+    second: Larry_No_Background (1)_163
+  - first:
+      213: 410500230387814797
+    second: Larry_No_Background (1)_164
+  - first:
+      213: 6230622352351356131
+    second: Larry_No_Background (1)_165
+  - first:
+      213: -3054474393820515258
+    second: Larry_No_Background (1)_166
+  - first:
+      213: 3666648205875774973
+    second: Larry_No_Background (1)_167
+  - first:
+      213: -2083415942687410560
+    second: Larry_No_Background (1)_168
+  - first:
+      213: -4651212022112057345
+    second: Larry_No_Background (1)_169
+  - first:
+      213: 5192047891236737525
+    second: Larry_No_Background (1)_170
+  - first:
+      213: 4836049777231275939
+    second: Larry_No_Background (1)_171
+  - first:
+      213: 3208380459994445766
+    second: Larry_No_Background (1)_172
+  - first:
+      213: -4324209170289996959
+    second: Larry_No_Background (1)_173
+  - first:
+      213: -3232848649949910925
+    second: Larry_No_Background (1)_174
+  - first:
+      213: 4010972217085258408
+    second: Larry_No_Background (1)_175
+  - first:
+      213: -2846135141852843563
+    second: Larry_No_Background (1)_176
+  - first:
+      213: -2949820758716887224
+    second: Larry_No_Background (1)_177
+  - first:
+      213: -6445865870622040531
+    second: Larry_No_Background (1)_178
+  - first:
+      213: -4281790183214938003
+    second: Larry_No_Background (1)_179
+  - first:
+      213: 2748254264220511109
+    second: Larry_No_Background (1)_180
+  - first:
+      213: -2629024175947667098
+    second: Larry_No_Background (1)_181
+  - first:
+      213: -9206626588087457319
+    second: Larry_No_Background (1)_182
+  - first:
+      213: -2970942319494118042
+    second: Larry_No_Background (1)_183
+  - first:
+      213: -8867522814324101901
+    second: Larry_No_Background (1)_184
+  - first:
+      213: 4866957432064521069
+    second: Larry_No_Background (1)_185
+  - first:
+      213: -1556966811977848598
+    second: Larry_No_Background (1)_186
+  - first:
+      213: 39509043410496776
+    second: Larry_No_Background (1)_187
+  - first:
+      213: 1145691014318355083
+    second: Larry_No_Background (1)_188
+  - first:
+      213: -3168946827369815440
+    second: Larry_No_Background (1)_189
+  - first:
+      213: 3836712523867655706
+    second: Larry_No_Background (1)_190
+  - first:
+      213: -742497860511858574
+    second: Larry_No_Background (1)_191
+  - first:
+      213: 5502276921295418446
+    second: Larry_No_Background (1)_192
+  - first:
+      213: 8102256272245898825
+    second: Larry_No_Background (1)_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ec44b1df2ad1d0800000000000000
+      internalID: -3325292797140081328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5473822b8737060800000000000000
+      internalID: 6950031356537030090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3144b632503b050800000000000000
+      internalID: 5814997193547060215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a896d5a2a5b5e0800000000000000
+      internalID: -1894429235085794468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 60
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898eb7e2ed3942070800000000000000
+      internalID: 8080746213881407640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb79269a6a10920800000000000000
+      internalID: 2954826076965551003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 60
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523c65d1b3c3954e8a7241195b9b887
+      internalID: -8501383924711943512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 60
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd04eac741312408708b209805ecfb
+      internalID: 8748316193710436283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392a611bbaeba54b99faf0a4008bdd1
+      internalID: -7370530735726078223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 61
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd520983eca5a5e429ec96665c98b31f
+      internalID: -7451338227292535799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 61
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4780bea5bc26942ae5a3d143367bca
+      internalID: 420576196866665585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Larry_No_Background (1)_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 61
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da75626de4aa6a448ff338e1d361bc8
+      internalID: 3435971439820510318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f5cf4c48d61f654581d7700812ccda6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Larry_No_Background (1)_0: -3325292797140081328
+      Larry_No_Background (1)_1: 6950031356537030090
+      Larry_No_Background (1)_10: 420576196866665585
+      Larry_No_Background (1)_11: 3435971439820510318
+      Larry_No_Background (1)_2: 5814997193547060215
+      Larry_No_Background (1)_3: -8501383924711943512
+      Larry_No_Background (1)_4: -1894429235085794468
+      Larry_No_Background (1)_5: 8748316193710436283
+      Larry_No_Background (1)_6: 8080746213881407640
+      Larry_No_Background (1)_7: 2954826076965551003
+      Larry_No_Background (1)_8: -7370530735726078223
+      Larry_No_Background (1)_9: -7451338227292535799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

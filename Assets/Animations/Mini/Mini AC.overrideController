@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mini AC
+  m_Controller: {fileID: 9100000, guid: 59877e8c23ebd89419be95ca4cb19601, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4fa7a5f769ed903aab42b61535ca2748, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef8d840b97bf5b64495a341c7a16ae87, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f03b8f09a0c9ec33977c39d46598172, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4f6393bfbcdf49a478889949a9fa2634, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d8260b5a99a955a0af47e801397bb28, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abfec5ab112f4d1479c21dfbbca0db6b, type: 2}
